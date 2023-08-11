@@ -22,10 +22,10 @@ yarn-error.log
 
 # Visual Studio Code
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
 .history/*
 
 # Miscellaneous
@@ -44,5 +44,5 @@ Thumbs.db
 
 # Local Netlify folder
 .netlify
-.angular/cache/15.2.4/angular-webpack/55f448e96e1cadfe25ca96ef03e0e039cc5bcb14/index.pack
+
 
